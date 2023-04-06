@@ -1,5 +1,4 @@
-# Golang极速上手
-
+# Golang 极速上手
 
 <!--more-->
 
@@ -2864,7 +2863,7 @@ func writeCsv() {
 	}
 	defer file.Close()
 	writer := csv.NewWriter(file)
-	data := [][]string{{"doc_id", "sent_index", "mention"}, {"1", "1", "121"}, {"1", "2", "1212"}, {"2", "3", "sdasd"}}
+	data := [][]string{{"2", "3", "sdasd"}}
 	for _, v := range data {
 		err := writer.Write(v)
 		if err != nil {
@@ -2875,4 +2874,3 @@ func writeCsv() {
 	fmt.Println("write succ！")
 }
 ```
-
