@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>技术博客</title>
-        <link>https://brillience.github.io/</link>
-        <description>个人技术总结</description>
+        <title>Golang - Category - 技术博客</title>
+        <link>https://brillience.github.io/categories/golang/</link>
+        <description>Golang - Category - 技术博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zxb6815@gmail.com (XiaoboZhang)</managingEditor>
-            <webMaster>zxb6815@gmail.com (XiaoboZhang)</webMaster><lastBuildDate>Thu, 06 Apr 2023 17:39:33 &#43;0800</lastBuildDate>
-            <atom:link href="https://brillience.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>zxb6815@gmail.com (XiaoboZhang)</webMaster><lastBuildDate>Thu, 06 Apr 2023 17:39:33 &#43;0800</lastBuildDate><atom:link href="https://brillience.github.io/categories/golang/" rel="self" type="application/rss+xml" /><item>
     <title>Golang极速上手</title>
     <link>https://brillience.github.io/golang%E6%9E%81%E9%80%9F%E4%B8%8A%E6%89%8B/</link>
     <pubDate>Thu, 06 Apr 2023 17:39:33 &#43;0800</pubDate>
