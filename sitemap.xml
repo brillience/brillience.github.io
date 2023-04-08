@@ -2,13 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://brillience.github.io/categories/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/tags/golang/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/categories/golang/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/posts/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/tags/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/design_pattern/</loc><lastmod>2023-04-06T19:58:44&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://brillience.github.io/golang_quick/</loc><lastmod>2023-04-06T19:57:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://brillience.netlify.app/categories/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/tags/golang/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/categories/golang/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/posts/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/tags/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/design_pattern/</loc><lastmod>2023-04-06T19:54:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://brillience.netlify.app/golang-quick/</loc><lastmod>2023-04-06T17:39:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

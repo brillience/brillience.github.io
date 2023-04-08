@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Golang - Category - 技术博客</title>
-        <link>https://brillience.github.io/categories/golang/</link>
+        <link>https://brillience.netlify.app/categories/golang/</link>
         <description>Golang - Category - 技术博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zxb6815@gmail.com (XiaoboZhang)</managingEditor>
-            <webMaster>zxb6815@gmail.com (XiaoboZhang)</webMaster><lastBuildDate>Thu, 06 Apr 2023 19:54:32 &#43;0800</lastBuildDate><atom:link href="https://brillience.github.io/categories/golang/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>zxb6815@gmail.com (XiaoboZhang)</webMaster><lastBuildDate>Thu, 06 Apr 2023 19:54:32 &#43;0800</lastBuildDate><atom:link href="https://brillience.netlify.app/categories/golang/" rel="self" type="application/rss+xml" /><item>
     <title>设计模式</title>
-    <link>https://brillience.github.io/design_pattern/</link>
+    <link>https://brillience.netlify.app/design_pattern/</link>
     <pubDate>Thu, 06 Apr 2023 19:54:32 &#43;0800</pubDate>
     <author>brillience</author>
-    <guid>https://brillience.github.io/design_pattern/</guid>
+    <guid>https://brillience.netlify.app/design_pattern/</guid>
     <description><![CDATA[设计模式 6 大原则 golang 设计模式 ** 设计模式（Design pattern）**是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结。使]]></description>
 </item>
 <item>
     <title>Golang极速上手</title>
-    <link>https://brillience.github.io/golang_quick/</link>
+    <link>https://brillience.netlify.app/golang-quick/</link>
     <pubDate>Thu, 06 Apr 2023 17:39:33 &#43;0800</pubDate>
     <author>brillience</author>
-    <guid>https://brillience.github.io/golang_quick/</guid>
+    <guid>https://brillience.netlify.app/golang-quick/</guid>
     <description><![CDATA[快速掌握golang的语法知识]]></description>
 </item>
 </channel>

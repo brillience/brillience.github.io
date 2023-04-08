@@ -15,7 +15,7 @@
   - 复用性高
   - 易维护
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21822442/1635832441937-30878495-014a-4a44-900b-7540c406b95d.png#averageHue=%23dad3cd&clientId=u1fa82987-5447-4&from=paste&height=263&id=u8e2d950b&name=image.png&originHeight=526&originWidth=812&originalType=binary&ratio=1&rotation=0&showTitle=false&size=277821&status=done&style=none&taskId=ue2d1b184-5f07-4ac4-98c2-79450a2a0de&title=&width=406)
+![image.png](1.png)
 
 ### 2. 里氏代换原则
 
@@ -127,7 +127,7 @@ func TestType2(t *testing.T) {
 
 简单工厂模式只能生产单一的产品（该产品的实现细节对外不可见）。
 工厂方法模式可以生产多种产品，所有产品的共性由产品基类实现，产品之间的个性由产品基类的子类实现。即：**创建过程延迟到子类进行**
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21822442/1636342573010-0125086a-57ff-4d59-9604-e80f502c4556.png#averageHue=%23ededed&clientId=ue2c3cb3f-5ad0-4&from=paste&height=372&id=ub4e27d08&name=image.png&originHeight=372&originWidth=741&originalType=binary&ratio=1&rotation=0&showTitle=false&size=58054&status=done&style=none&taskId=u87cd8d1c-291d-4df9-9bd7-02f610b88a8&title=&width=741)
+![image.png](factory.png)
 _factorymethod.go_
 
 ```go
@@ -211,7 +211,7 @@ func TestOperator(t *testing.T) {
 
 抽象工厂模式（Abstract Factory Pattern）是围绕一个超级工厂创建其他工厂。该超级工厂又称为其他工厂的工厂。这种类型的设计模式属于创建型模式，它提供了一种创建对象的最佳方式。
 在抽象工厂模式中，接口是负责创建一个相关对象的工厂，不需要显式指定它们的类。每个生成的工厂都能按照工厂模式提供对象。
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21822442/1636342439118-f5d55932-0139-4fde-a9a6-cec4eff47476.png#averageHue=%23ececec&clientId=u8d7514fa-688b-4&from=paste&height=479&id=u037954e4&name=image.png&originHeight=650&originWidth=960&originalType=binary&ratio=1&rotation=0&showTitle=false&size=130743&status=done&style=none&taskId=uaaee690e-9733-4fee-a7b8-01cca7776bb&title=&width=708)
+![image.png](abs_facory.png)
 
 抽象工厂模式用于生成产品族的工厂，所生成的对象是有关联的。
 如果抽象工厂退化成生成的对象无关联则成为工厂函数模式。

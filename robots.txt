@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://brillience.github.io/sitemap.xml
+Sitemap: https://brillience.netlify.app/sitemap.xml
