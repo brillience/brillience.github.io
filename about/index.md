@@ -12,6 +12,7 @@ Email: `zxb6815@gmail.com`
 ## 近期阅读的书籍
 
 - `《Go语言高级编程》`
+- `《go-zero源码分析》`
 
 ## Other
 
