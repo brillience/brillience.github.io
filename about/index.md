@@ -13,6 +13,7 @@ Email: `zxb6815@gmail.com`
 
 - `《Go语言高级编程》`
 - `《go-zero源码分析》`
+- `《数据密集型应用系统设计》`
 
 ## Other
 
