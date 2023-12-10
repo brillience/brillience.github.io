@@ -3,7 +3,7 @@
 
 ## Hello
 
-目前专注于 🤓 ： `Golang` 、 `Kubernets` 、 `Cloud Native`
+目前专注于 🤓 ： `Java` 、 `Golang` 、 `微服务架构`
 
 Github: `https://github.com/brillience`
 
@@ -15,6 +15,7 @@ Email: `zxb6815@gmail.com`
 - `《go-zero源码分析》`
 - `《数据密集型应用系统设计》`
 - `《凤凰架构》`
+- `《Effective Java》`
 
 ## Other
 
