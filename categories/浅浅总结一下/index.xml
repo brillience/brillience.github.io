@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>浅浅总结一下 - Category - 技术博客</title>
+        <link>https://brillience.netlify.app/categories/%E6%B5%85%E6%B5%85%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8B/</link>
+        <description>浅浅总结一下 - Category - 技术博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zxb6815@gmail.com (XiaoboZhang)</managingEditor>
+            <webMaster>zxb6815@gmail.com (XiaoboZhang)</webMaster><lastBuildDate>Sun, 10 Dec 2023 18:36:23 &#43;0800</lastBuildDate><atom:link href="https://brillience.netlify.app/categories/%E6%B5%85%E6%B5%85%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8B/" rel="self" type="application/rss+xml" /><item>
+    <title>2023</title>
+    <link>https://brillience.netlify.app/summary/2023/</link>
+    <pubDate>Sun, 10 Dec 2023 18:36:23 &#43;0800</pubDate>
+    <author>brillience</author>
+    <guid>https://brillience.netlify.app/summary/2023/</guid>
+    <description><![CDATA[2023 小结 敬请期待&hellip;]]></description>
+</item>
+</channel>
+</rss>
