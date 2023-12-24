@@ -3,9 +3,9 @@
 
 <!--more-->
 
-![image.png](1.png)
-
 # 2023 年小结
+
+![image.jpg](image.jpg)
 
 ## Base Line
 
