@@ -5,7 +5,7 @@
 
 # 2023 年小结
 
-![image.jpg](image.jpg)
+![](https://w.wallhaven.cc/full/45/wallhaven-4515w8.jpg)
 
 ## Base Line
 
