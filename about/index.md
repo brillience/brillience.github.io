@@ -16,6 +16,7 @@ Email: `zxb6815@gmail.com`
 - `《数据密集型应用系统设计》`
 - `《凤凰架构》`
 - `《Effective Java》`
+- `《RocketMQ技术内幕》`
 
 ## Other
 
